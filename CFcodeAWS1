@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: "2020-09-09"
-Description: Creates two Subnets, a DBSubnetGroup, an EC2 instance and a RDS instance.
+Description: Creates two Subnets, a DBSubnetGroup, an EC2 inst and a RDS inst.
 Parameters:
     KeyName:
         Description: "Name of an existing EC2 KeyPair to enable SSH access to the instance"
